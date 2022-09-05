@@ -1,2 +1,2 @@
 # Classification-Ads-Vidio
-Classification Has Ads from vidio dataset
+Classification Ads from vidio dataset there are 1 milion rows data 
